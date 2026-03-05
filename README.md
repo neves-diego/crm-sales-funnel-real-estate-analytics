@@ -1,102 +1,47 @@
-# crm-sales-funnel-real-estate-analytics
-Análise de Funil de Vendas Imobiliário utilizando Python para cálculo de conversões, identificação de gargalos comerciais e geração de insights estratégicos de CRM.
+# CRM Sales Funnel – Análise de Funil de Vendas Imobiliário
 
-📊 Análise de Funil de Vendas Imobiliário (CRM Analytics)
-📌 Sobre o Projeto
+Um projeto que transforma dados de CRM em insights sobre o funil de vendas, ajudando a identificar oportunidades e gargalos no processo comercial.
 
-Este projeto tem como objetivo realizar uma análise exploratória e estratégica do funil de vendas imobiliário, utilizando dados de um CRM para identificar gargalos, taxas de conversão e oportunidades de otimização comercial.
+---
 
-A proposta é transformar dados brutos em insights acionáveis, apoiando a tomada de decisão em processos de captação, atendimento e fechamento de vendas no mercado imobiliário.
+## Sobre o projeto
+Este projeto nasceu da vontade de entender melhor o comportamento de leads e clientes em uma imobiliária. Ao analisar cada etapa do funil de vendas, é possível descobrir onde os leads estão “travando” e quais ações trazem mais resultados. Mais do que números, o objetivo é apoiar decisões estratégicas e otimizar processos comerciais.
 
-🎯 Objetivos da Análise
+---
 
-Analisar a distribuição de leads por etapa do funil
+## Tecnologias e ferramentas
+- Python 3.11
+- Pandas e Numpy
+- Matplotlib e Seaborn
+- Jupyter Notebook
 
-Calcular taxas de conversão entre etapas
+---
 
-Identificar possíveis gargalos no processo comercial
+## Como usar
+1. Clone o repositório:  
+   `git clone https://github.com/neves-diego/crm-sales-funnel-real-estate-analytics.git`
+2. Acesse a pasta:  
+   `cd crm-sales-funnel-real-estate-analytics`
+3. Instale as dependências:  
+   `pip install -r requirements.txt`
+4. Abra o notebook:  
+   `jupyter notebook Sales_Funnel_Analysis.ipynb`
+5. Explore análises passo a passo: quantidade de leads por etapa, taxas de conversão e insights visuais.
 
-Avaliar performance do pipeline de vendas
+---
 
-Gerar métricas estratégicas para melhoria da operação
+## Exemplos e visualizações
+- Gráficos do funil de vendas por etapa  
+- Conversão de leads ao longo do tempo  
+- Comparativos entre diferentes campanhas ou regiões
 
-🛠️ Tecnologias Utilizadas
+---
 
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib / Seaborn (visualização)
-
-Google Colab
-
-📈 Etapas da Análise
-
-Importação e tratamento dos dados
-
-Análise exploratória (EDA)
-
-Cálculo das métricas do funil
-
-Volume por etapa
-
-Taxa de conversão
-
-Taxa de perda
-
-Visualização gráfica do funil
-
-Geração de insights estratégicos
-
-📊 Principais Métricas Avaliadas
-
-Total de leads gerados
-
-Leads qualificados
-
-Visitas realizadas
-
-Propostas enviadas
-
-Vendas fechadas
-
-Conversão por etapa (%)
-
-Conversão total do funil (%)
-
-💡 Insights Estratégicos
-
-A análise permite responder perguntas como:
-
-Em qual etapa estamos perdendo mais clientes?
-
-A qualificação de leads está eficiente?
-
-O volume de visitas está proporcional às oportunidades?
-
-Como podemos melhorar a taxa de fechamento?
-
-🚀 Como Executar
-
-Abra o projeto no Google Colab
-
-Execute as células em ordem
-
-Analise os gráficos e métricas geradas
-
-Utilize os insights para simular melhorias no funil
-
-📂 Estrutura do Projeto
-analise_funil_vendas_imobiliario.ipynb
-README.md
-
-👤 Sobre o Autor
+## Sobre o Autor
 
 Diego Neves
 Jornalista e profissional de Marketing com transição para Análise de Dados.
 
-🔗 LinkedIn: https://www.linkedin.com/in/diego-neves-19274614a/
-Experiência de quase 10 anos no mercado imobiliário, atuando com comunicação, relacionamento com clientes e processos comerciais.
+LinkedIn: https://www.linkedin.com/in/diego-neves-19274614a/
+
 
