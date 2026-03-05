@@ -39,8 +39,7 @@ Este projeto nasceu da vontade de entender melhor o comportamento de leads e cli
 
 ## Sobre o Autor
 
-Diego Neves
-Jornalista e profissional de Marketing com transição para Análise de Dados.
+Diego Neves. Jornalista e profissional de Marketing com transição para Análise de Dados.
 
 LinkedIn: https://www.linkedin.com/in/diego-neves-19274614a/
 
